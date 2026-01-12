@@ -8,12 +8,14 @@
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0849-maximize-distance-to-closest-person) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 ## Hash Table
 |  |
