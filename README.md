@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
+| [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
 ## Hash Table
 |  |
 | ------- |
