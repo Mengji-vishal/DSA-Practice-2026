@@ -11,6 +11,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 ## Math
 |  |
@@ -19,6 +20,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
