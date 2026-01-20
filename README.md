@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
