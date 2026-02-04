@@ -13,6 +13,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Math
@@ -30,6 +31,7 @@
 | [0041-first-missing-positive](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0041-first-missing-positive) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
 ## String
 |  |
 | ------- |
