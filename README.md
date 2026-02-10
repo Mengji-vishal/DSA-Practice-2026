@@ -37,6 +37,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
