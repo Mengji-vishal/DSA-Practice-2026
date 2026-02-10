@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
