@@ -39,6 +39,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +118,5 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
