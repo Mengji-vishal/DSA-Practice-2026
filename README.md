@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -89,6 +90,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
