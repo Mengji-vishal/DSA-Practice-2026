@@ -7,6 +7,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0849-maximize-distance-to-closest-person) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -74,6 +75,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 ## Bit Manipulation
