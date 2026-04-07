@@ -7,6 +7,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0090-subsets-ii) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0090-subsets-ii) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 ## Enumeration
 |  |
