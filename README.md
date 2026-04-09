@@ -38,6 +38,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
+| [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
