@@ -109,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -156,4 +157,16 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
