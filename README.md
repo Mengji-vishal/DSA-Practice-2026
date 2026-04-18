@@ -29,6 +29,7 @@
 | [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3099-harshad-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
