@@ -50,6 +50,7 @@
 | [1544-make-the-string-great](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2833-furthest-point-from-origin) |
 | [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
