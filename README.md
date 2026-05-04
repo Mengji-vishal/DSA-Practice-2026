@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
@@ -23,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
