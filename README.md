@@ -21,6 +21,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3099-harshad-number) |
+| [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
