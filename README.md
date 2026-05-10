@@ -27,6 +27,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
+| [0365-water-and-jug-problem](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0365-water-and-jug-problem) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0094-binary-tree-inorder-traversal) |
+| [0365-water-and-jug-problem](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0048-rotate-image) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
