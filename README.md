@@ -15,6 +15,7 @@
 | [0849-maximize-distance-to-closest-person](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0849-maximize-distance-to-closest-person) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1250-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -29,6 +30,7 @@
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0365-water-and-jug-problem](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0365-water-and-jug-problem) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0989-add-to-array-form-of-integer) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1250-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [2235-add-two-integers](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0365-water-and-jug-problem) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
