@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0219-contains-duplicate-ii) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0849-maximize-distance-to-closest-person) |
@@ -157,6 +158,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
