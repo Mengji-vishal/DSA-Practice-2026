@@ -110,11 +110,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 ## Stack
