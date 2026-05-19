@@ -21,6 +21,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
@@ -47,6 +48,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
 | [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## String
 |  |
@@ -119,6 +121,7 @@
 | [0061-rotate-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
+| [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
