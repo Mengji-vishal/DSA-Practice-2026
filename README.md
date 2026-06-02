@@ -24,6 +24,7 @@
 | [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
 ## Math
 |  |
@@ -72,6 +73,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0234-palindrome-linked-list) |
 | [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
