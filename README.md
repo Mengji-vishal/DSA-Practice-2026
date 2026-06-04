@@ -39,6 +39,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3099-harshad-number) |
 | [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
