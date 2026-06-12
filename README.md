@@ -19,6 +19,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1250-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1390-four-divisors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2540-minimum-common-value) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
@@ -105,6 +107,7 @@
 | ------- |
 | [0135-candy](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2708-maximum-strength-of-a-group](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2708-maximum-strength-of-a-group) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
