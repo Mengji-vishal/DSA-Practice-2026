@@ -27,6 +27,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3697-compute-decimal-representation](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3697-compute-decimal-representation) |
+| [3838-weighted-word-mapping](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3838-weighted-word-mapping) |
 | [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
 | ------- |
