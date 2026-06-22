@@ -50,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -62,6 +63,7 @@
 | [0402-remove-k-digits](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1544-make-the-string-great) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/2833-furthest-point-from-origin) |
 | [3889-mirror-frequency-distance](https://github.com/Mengji-vishal/DSA-Practice-2026/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
